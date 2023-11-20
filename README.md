@@ -1,2 +1,2 @@
 # to-do-list-
-To-do list proj. 
+A To-do list project with minimalistic UI 
